@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+
+h2{
+    margin: 2rem auto;
+    border: 2px solid lightgrey;
+    padding: 1rem;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: aqua;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
